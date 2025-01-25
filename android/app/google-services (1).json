@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723730123483",
+    "project_id": "fir-otp-616a0",
+    "storage_bucket": "fir-otp-616a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723730123483:android:3409a805cf1f92e5f31afe",
+        "android_client_info": {
+          "package_name": "com.hamza.otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhuiQgYnLqpNc_ty9Lohwt_9Gy0iLUzng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
